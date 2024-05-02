@@ -13,3 +13,12 @@ These questions are *especially* **important** because
 3. Reason 3
 
 [Elon University](https://www.elon.edu)
+
+# In class Activity 13
+
+## Data Description 
+## Interpret Vizualization 
+![image](https://github.com/jcaceres21/mgt4250Spring2024/assets/168772954/78cdca5d-fd42-4ad1-8e6b-a561b527e6ec)
+
+## Discusion & Summary
+
