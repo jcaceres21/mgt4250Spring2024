@@ -2,7 +2,7 @@
 Author(s): Joshua Caceres (jcaceres@elon.edu)
 
 ## Project Description
-###Qestion of Interest 
+### Question of Interest 
 -Question 1
 -Question 2
 -Question 3
