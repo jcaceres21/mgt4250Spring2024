@@ -1,2 +1,3 @@
-# mgt4250Spring2024
-This is a repo for the course project 
+# MGT 4250 Spring 2024 Course Project 
+Author(s): Joshua Caceres (jcaceres@elon.edu)
+
