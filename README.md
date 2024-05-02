@@ -21,7 +21,7 @@ These questions are *especially* **important** because
 ![image](https://github.com/jcaceres21/mgt4250Spring2024/assets/168772954/78cdca5d-fd42-4ad1-8e6b-a561b527e6ec)
 ## Discusion & Summary
 
-'''
+```pyhton
 import pandas a pd 
-'''
+```
 
