@@ -22,6 +22,6 @@ These questions are *especially* **important** because
 ## Discusion & Summary
 
 ```pyhton
-import pandas a pd 
+import pandas as pd 
 ```
 
